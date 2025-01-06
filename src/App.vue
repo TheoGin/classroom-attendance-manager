@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-
+    <van-button type="primary">主要按钮</van-button>
   </div>
 </template>
 
@@ -13,6 +13,6 @@
 #app {
   width: 750px;
   height: 100px;
-  background: #f00;
+  // background: #f00;
 }
 </style>
